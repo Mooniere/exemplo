@@ -1,0 +1,48 @@
+
+
+body{
+    padding-left: 150px;
+    padding-right: 150px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+article{
+    width: 840px;
+    margin: 112px auto;
+}
+
+h2{
+    font-size: 48px;
+    color: #271E3A;
+    line-height: 41px;
+    font-family: 'Montserrat',sans-serif ;
+}
+
+h3{
+    font-size: ;
+    color: #292532;
+    line-height: 32px;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 64px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+img{
+    margin-bottom: 64px;
+    max-width: 100%;
+}
+
+p{
+color:#322D3C ;
+font-family: 'Open Sans', sans-serif; ;
+line-height: 32px;
+font-size: 20px;
+margin-bottom: 32px;
+font-weight: 400
+}
